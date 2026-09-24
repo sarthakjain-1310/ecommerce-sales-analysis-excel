@@ -30,7 +30,7 @@ The project includes data cleaning, analysis, KPI creation, PivotTables, slicers
 
 ## 📈 Dashboard Preview
 
-![Dashboard Preview](./Dashboard%20preview.png)
+![E-commerce Sales & Profit Dashboard](https://raw.githubusercontent.com/sarthakjain-1310/ecommerce-sales-analysis-excel/refs/heads/main/Download%20preview.png)
 
 ## 🔍 Analysis Performed
 
