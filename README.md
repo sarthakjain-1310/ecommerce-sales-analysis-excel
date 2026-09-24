@@ -30,7 +30,7 @@ The project includes data cleaning, analysis, KPI creation, PivotTables, slicers
 
 ## 📈 Dashboard Preview
 
-![E-commerce Sales & Profit Dashboard](Dashboard%20preview.png)
+![Dashboard Preview](./Dashboard%20preview.png)
 
 ## 🔍 Analysis Performed
 
