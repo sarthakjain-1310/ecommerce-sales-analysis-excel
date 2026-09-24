@@ -25,7 +25,6 @@ An interactive E-commerce Sales & Profit Analysis dashboard developed using Micr
 ## 📸 Dashboard Preview
 
 ![E-commerce Sales & Profit Dashboard](Dashboard_Preview.png)
-<img width="1917" height="750" alt="Download preview png" src="https://github.com/user-attachments/assets/83101012-4655-4009-b58a-1f88c873be24" />
 
 
 ## 🔍 Analysis Performed
